@@ -50,7 +50,7 @@ import java.util.Arrays;
 /**
  * Activity that initializes Viro and ARCore. This activity demonstrates how to use an
  * ARImageTarget: in this case, when a Black Panther poster is recognized, a Black Panther
- * model will jump out of the poster.
+ * model will jump out of the poster. mazey kro bc
  */
 public class ViroActivityAR extends Activity {
     private static final String TAG = ViroActivityAR.class.getSimpleName();
